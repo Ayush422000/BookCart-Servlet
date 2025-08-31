@@ -1,5 +1,10 @@
 # 📚 Book-Cart Servlets Project
 
+![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-JSP-orange?logo=oracle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-9%2B-yellow?logo=apache-tomcat&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This project is a simple **Book Cart web application** built using **Java Servlets** and **JSP**.  
 It demonstrates the concept of **session management** in servlets by allowing users to add books to a cart, remove them, and place an order.
 
@@ -27,3 +32,14 @@ It demonstrates the concept of **session management** in servlets by allowing us
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/book-cart-servlets.git
+
+
+2. Import into Eclipse/IntelliJ as a Dynamic Web Project.
+
+3. Configure Apache Tomcat server.
+
+4. Deploy and run the application on the server.
+
+5. Access the app in your browser:
+   http://localhost:8080/book-cart/
+
